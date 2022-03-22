@@ -41,7 +41,7 @@ import tempfile
 from argparse import RawTextHelpFormatter
 from pathlib import Path
 
-import censys.certificates
+#import censys.certificates
 import validators
 import sys
 import socket
